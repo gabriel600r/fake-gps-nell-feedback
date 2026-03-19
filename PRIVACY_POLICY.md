@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Fake GPS Nell ("the App") is developed by Egea Inc. This Privacy Policy explains how we handle information when you use our App.
+Fake GPS Nell ("the App") is developed by EgeaINC. This Privacy Policy explains how we handle information when you use our App.
 
 ## Data Collection
 

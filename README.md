@@ -1,8 +1,16 @@
 # 🐱 Fake GPS Nell
 
+<p align="center">
+  <img src="assets/app_icon.png" alt="Fake GPS Nell Icon" width="150">
+</p>
+
 **Simulá tu ubicación GPS con la ayuda de Nell, una gata siamesa de 19 años.**
 
 > Fake GPS Nell te permite cambiar tu ubicación GPS en Android. Teletransportate al instante o simulá un viaje real por ruta con velocidad configurable.
+
+<p align="center">
+  <img src="assets/feature_graphic.png" alt="Fake GPS Nell Feature Graphic" width="100%">
+</p>
 
 ---
 
@@ -103,4 +111,4 @@ Nell es una gata siamesa de 19 años que supervisa todo el desarrollo de esta ap
 
 ---
 
-*Hecho con 💙 por [Egea Inc](https://github.com/gabriel600r) y supervisado por Nell 🐱*
+*Hecho con 💙 por [EgeaINC](https://github.com/gabriel600r) y supervisado por Nell 🐱*
