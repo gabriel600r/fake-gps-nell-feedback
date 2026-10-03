@@ -1,5 +1,10 @@
 # Novedades — Fake GPS Nell
 
+## 1.6.1 — octubre 2026
+- El anuncio tiene su lugar reservado desde que abre la pantalla: ya no aparece de golpe donde ibas a tocar.
+- Abajo de Favoritos e Historial nada queda tapado por la barra de navegación de Android, tengas o no PRO.
+- "Privacidad de anuncios" (Europa y Reino Unido) abre siempre el formulario o avisa si no pudo.
+
 ## 1.6.0 — octubre 2026
 - **Mucho más gratis:** viajes simulados, joystick, historial y auto-stop ya no piden PRO.
 - **Sin límite de sesiones ni de tiempo** (antes eran 3 sesiones por día de 45 minutos).
