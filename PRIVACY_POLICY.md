@@ -1,51 +1,70 @@
 # Privacy Policy — Fake GPS Nell
 
-**Last updated:** March 19, 2026
+**Last updated:** October 3, 2026
 
 ## Introduction
 
 Fake GPS Nell ("the App") is developed by EgeaINC. This Privacy Policy explains how we handle information when you use our App.
 
-## Data Collection
+## Your Data Stays on Your Device
 
-**We do not collect, store, or transmit any personal data.** The App operates entirely on your device.
-
-### What the App does NOT do:
-- Does not collect personal information (name, email, phone, etc.)
-- Does not track your real location
-- Does not use analytics or tracking services
-- Does not display advertisements
-- Does not share any data with third parties
-- Does not use cookies or similar technologies
-
-### Local Storage Only
-
-The App stores the following data **locally on your device only**:
-- **Favorites:** Saved locations you create (stored in local SQLite database)
-- **Session history:** Records of your mock location sessions (stored in local SQLite database)
-- **Preferences:** App settings like language, theme, and display options (stored in SharedPreferences)
+**EgeaINC does not collect, store, or receive your data.** The App stores the following **locally on your device only**:
+- **Favorites:** Saved locations you create (local SQLite database)
+- **Session history:** Records of your mock location sessions (local SQLite database)
 - **Schedule profiles:** Auto-start configurations (stored locally)
+- **Preferences:** Settings like language and theme (SharedPreferences)
 
-This data never leaves your device and is deleted when you uninstall the App.
+This data never leaves your device unless you export or share it yourself, and it is deleted when you uninstall the App.
 
-### Internet Usage
+## Location
 
-The App connects to the internet solely for:
+The App uses your device's location to set mock locations through Android's Developer Options and to center the map. Your real location and the locations you simulate are never sent to EgeaINC and are never shared with the advertising service.
 
-1. **Geocoding (address search):** Queries are sent to [Nominatim/OpenStreetMap](https://nominatim.openstreetmap.org/) to convert addresses to coordinates. Nominatim's privacy policy applies to these requests.
-2. **Route calculation:** Route data is fetched from [OSRM (Open Source Routing Machine)](https://router.project-osrm.org/) for trip simulation. No personal data is sent.
-3. **In-app purchases:** Processed entirely through Google Play Billing. We do not have access to your payment information. Google's privacy policy applies.
+## Advertising
 
-### Permissions
+The free version of the App shows ads provided by **Google AdMob**. Users with Fake GPS Nell PRO do not see ads, and the App does not start the ads service for them.
+
+To show and measure ads, Google AdMob may collect and process:
+- The device's advertising ID
+- Approximate location derived from the IP address
+- Device and app information (model, operating system, language, app version)
+- Ad interactions (impressions and taps)
+
+This data is collected and processed by Google under its own policies, not by EgeaINC. Your favorites, history and simulated locations are never shared with AdMob.
+
+- How Google uses information from apps that use its services: https://policies.google.com/technologies/partner-sites
+- Google Privacy Policy: https://policies.google.com/privacy
+
+**Your choices:**
+- You can reset or delete your advertising ID, or opt out of personalized ads, in your device settings (Settings → Google → Ads, or Settings → Privacy → Ads, depending on the device).
+- In the European Economic Area, the United Kingdom and Switzerland, the App asks for your consent before showing personalized ads, and you can change your choice at any time in Settings → Ad privacy.
+- Buying Fake GPS Nell PRO (one-time purchase) removes all ads.
+
+## Internet Usage
+
+The App connects to the internet for:
+
+1. **Address search:** Queries are sent to [Nominatim/OpenStreetMap](https://nominatim.openstreetmap.org/) to convert addresses to coordinates. Only the search text is sent. Nominatim's privacy policy applies.
+2. **Route calculation:** Origin and destination coordinates are sent to [OSRM (Open Source Routing Machine)](https://router.project-osrm.org/) for trip simulation. No personal identifiers are sent.
+3. **Map tiles:** Map images are loaded from OpenStreetMap tile servers.
+4. **In-app purchases:** Processed entirely through Google Play Billing. We do not have access to your payment information. Google's privacy policy applies.
+5. **Ads (free version only):** Loading ads from Google AdMob, as described above.
+
+The App has no analytics of its own.
+
+## Permissions
 
 The App requests the following Android permissions:
-- **Location:** Required to set mock locations via Android's Developer Options. Your real location is never stored or transmitted.
-- **Internet:** Required for address search, route calculation, and in-app purchases.
-- **Foreground service:** Required to maintain mock location while the App runs in the background.
+- **Location:** Required to set mock locations via Android's Developer Options and to show where you are on the map. Your real location is never stored on our side or transmitted to us.
+- **Foreground service:** Required to keep the mock location running while the App is in the background.
+- **Notifications:** Shows the ongoing mock location status.
+- **Exact alarms:** Used by scheduled profiles (PRO) to start at the set time.
+- **Internet:** Required for address search, routes, map tiles, purchases and ads in the free version.
+- **Advertising ID:** Used by Google AdMob to show ads in the free version.
 
 ## Children's Privacy
 
-The App does not knowingly collect any information from children under 13 years of age.
+The App is not directed at children under 13. It does not knowingly collect information from children.
 
 ## Changes to This Policy
 

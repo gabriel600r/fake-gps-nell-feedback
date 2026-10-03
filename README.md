@@ -8,80 +8,58 @@
 
 > Fake GPS Nell te permite cambiar tu ubicación GPS en Android. Teletransportate al instante o simulá un viaje real por ruta con velocidad configurable.
 
+📲 **[Descargala gratis en Google Play](https://play.google.com/store/apps/details?id=com.egeainc.fakegpsnell)**
+
 <p align="center">
   <img src="assets/feature_graphic.png" alt="Fake GPS Nell Feature Graphic" width="100%">
 </p>
 
 ---
 
-## 📍 Funciones principales
+## 📍 Gratis
 
-### Teletransporte instantáneo
-Tocá cualquier punto del mapa y movete ahí al instante. También podés buscar direcciones o ingresar coordenadas manualmente.
+- **Teletransporte instantáneo** a cualquier punto del mapa, con búsqueda de direcciones (Nominatim/OpenStreetMap) o coordenadas manuales.
+- **Simulación de viaje** por calles y rutas reales (OSRM): caminando, en bici o en auto, a la velocidad que quieras.
+- **Joystick flotante** para moverte en tiempo real.
+- **Historial** de sesiones con fecha, duración y lugar.
+- **Auto-stop:** se apaga solo a la hora que elijas.
+- **Exportar rutas GPX** y compartir favoritos en CSV.
+- **Hasta 5 favoritos**, con carpetas y colores.
+- **Widget** de pantalla de inicio y modo oscuro.
+- **Sin límite** de sesiones ni de tiempo.
 
-### Simulación de viaje por ruta (Pro)
-Simulá un viaje real siguiendo calles y rutas reales gracias a OSRM. Elegí tu velocidad: caminando, ciudad o ruta.
+## ⭐ Fake GPS Nell PRO (pago único)
 
-### Joystick flotante (Pro)
-Movete libremente por el mapa en tiempo real con un joystick flotante superpuesto sobre cualquier app.
+| | Gratis | PRO |
+|---|---|---|
+| Teletransporte, búsqueda, coordenadas | ✅ | ✅ |
+| Simulación de viaje | ✅ | ✅ |
+| Joystick | ✅ | ✅ |
+| Historial y auto-stop | ✅ | ✅ |
+| Sesiones | Sin límite | Sin límite |
+| Favoritos | Hasta 5 | Ilimitados |
+| Programar (perfiles por horario) | 🔒 | ✅ |
+| Modo Loop ∞ (ida y vuelta automático) | 🔒 | ✅ |
+| Anuncios | Uno chico arriba del mapa | Ninguno |
 
-### Búsqueda de direcciones
-Buscá cualquier dirección del mundo con geocodificación integrada (Nominatim/OpenStreetMap).
-
-### Favoritos (Pro)
-Guardá tus ubicaciones frecuentes para acceder rápidamente.
-
-### Historial de sesiones (Pro)
-Revisá todas tus sesiones anteriores con fecha, duración y ubicación.
-
-### Programación automática (Pro)
-Configurá horarios para que la ubicación falsa se active automáticamente.
-
-### Importar/Exportar GPX (Pro)
-Importá y exportá rutas en formato GPX para compartir o reutilizar.
-
-### Widget de pantalla de inicio
-Activá o desactivá la ubicación falsa directamente desde tu pantalla de inicio.
-
----
-
-## 🆓 Versión gratuita vs ⭐ Pro
-
-| Función | Gratis | Pro |
-|---------|--------|-----|
-| Teletransporte | ✅ | ✅ |
-| Búsqueda de direcciones | ✅ | ✅ |
-| Coordenadas manuales | ✅ | ✅ |
-| Mapa interactivo | ✅ | ✅ |
-| Widget de inicio | ✅ | ✅ |
-| Sesiones por día | 3 | Ilimitadas |
-| Duración por sesión | 30 min | Ilimitada |
-| Simulación de viaje | ❌ | ✅ |
-| Joystick flotante | ❌ | ✅ |
-| Favoritos | ❌ | ✅ |
-| Historial | ❌ | ✅ |
-| Programación automática | ❌ | ✅ |
-| GPX import/export | ❌ | ✅ |
-| Auto-stop | ❌ | ✅ |
-
-**Pro:** $4.99 USD — compra única, para siempre.
+El anuncio de la versión gratis nunca aparece cerca del botón de iniciar ni sobre el joystick.
 
 ---
 
 ## 🔒 Privacidad
 
-- **No recopilamos datos personales**
-- Todo se almacena localmente en tu dispositivo
-- Sin rastreo, sin anuncios, sin terceros
-- Internet solo para búsqueda de direcciones y cálculo de rutas
+- Tus favoritos, tu historial y las ubicaciones que simulás quedan en tu teléfono.
+- Los anuncios son de Google AdMob, que usa el ID de publicidad del dispositivo. Con PRO no se cargan.
+- En la Unión Europea, el Reino Unido y Suiza la app pide tu consentimiento antes de mostrar anuncios personalizados.
 
-📄 [Política de Privacidad completa](PRIVACY_POLICY.md)
+📄 [Política de Privacidad completa](PRIVACY_POLICY.md) · 📝 [Novedades](CHANGELOG.md) · 🇺🇸 [English](README-en.md)
 
 ---
 
 ## ⚠️ Requisitos
 
 - Android 7.0 o superior
+- La app está en español e inglés
 - Activar **"Ubicaciones simuladas"** en Opciones de desarrollador
 - Seleccionar **Fake GPS Nell** como app de ubicación simulada
 
