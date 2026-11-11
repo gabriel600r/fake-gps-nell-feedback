@@ -1,5 +1,8 @@
 # Novedades — Fake GPS Nell
 
+## 1.6.3 — noviembre 2026
+- Arreglos y mejoras de estabilidad al abrir la app.
+
 ## 1.6.2 — noviembre 2026
 - Comprar PRO y restaurar tu compra ya no se quedan colgados si Google Play se traba, por ejemplo cuando se actualiza solo con la app abierta: Nell se reconecta sola y, si Play no responde, te avisa.
 
