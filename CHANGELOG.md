@@ -1,16 +1,16 @@
 # Novedades — Fake GPS Nell
 
+## 1.6.2 — noviembre 2026
+- Comprar PRO y restaurar tu compra ya no se quedan colgados si Google Play se traba, por ejemplo cuando se actualiza solo con la app abierta: Nell se reconecta sola y, si Play no responde, te avisa.
+
 ## 1.6.1 — octubre 2026
-- El anuncio tiene su lugar reservado desde que abre la pantalla: ya no aparece de golpe donde ibas a tocar.
-- Abajo de Favoritos e Historial nada queda tapado por la barra de navegación de Android, tengas o no PRO.
-- "Privacidad de anuncios" (Europa y Reino Unido) abre siempre el formulario o avisa si no pudo.
+- Abajo de Favoritos e Historial nada queda tapado por la barra de navegación de Android.
 
 ## 1.6.0 — octubre 2026
 - **Mucho más gratis:** viajes simulados, joystick, historial y auto-stop ya no piden PRO.
 - **Sin límite de sesiones ni de tiempo** (antes eran 3 sesiones por día de 45 minutos).
 - Hasta **5 favoritos gratis**, con carpetas y colores.
-- **Publicidad:** un anuncio chico arriba del mapa y abajo de Favoritos e Historial, nunca cerca del botón de iniciar.
-- **Fake GPS Nell PRO** (mismo pago único de siempre): sin anuncios, favoritos ilimitados, Programar y Modo Loop ∞. Si ya tenías PRO, seguís con todo y sin anuncios.
+- **Fake GPS Nell PRO** (mismo pago único de siempre): sin anuncios, favoritos ilimitados, Programar y Modo Loop ∞. Si ya tenías PRO, seguís con todo.
 - PRO se verifica con Google Play al abrir la app: si reinstalás, vuelve solo.
 
 ## 1.5.11 — agosto 2026
